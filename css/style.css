@@ -5,6 +5,8 @@
 /*	This file is made for CURRENT TEMPLATE
 
 
+Secondary colour:  cfa586
+
 01) SHANE BASE
 02) SHANE MOBILE MENU
 03) SHANE TOPBAR
@@ -421,7 +423,7 @@ h6 { font-size: 16px; }
 }
 .preloaded  .loader_line{
     opacity: 0;
-    height: 100%!important;
+
 }
 .preloaded:before,
 .preloaded:after{
